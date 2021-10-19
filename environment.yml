@@ -1,0 +1,9 @@
+name: invert-voila
+
+dependencies:
+  - python=3.8
+  - conda-forge::imagemagick==7.1.0_10
+  - conda-forge::ipywidgets==7.6.5
+  - conda-forge::jupyter_core==4.8.1
+  - conda-forge::jupytext==1.13.0
+  - conda-forge::voila==0.2.16
