@@ -10,6 +10,7 @@ Quickstart
 
     conda env create
     conda activate invert-voila
+    python -m ipykernel install --user --name invert-voila
     jupytext --to ipynb index.py --set-kernel -
     voila --theme dark index.ipynb
 
