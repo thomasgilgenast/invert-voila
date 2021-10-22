@@ -15,4 +15,4 @@ Quickstart
 
 ### Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thomasgilgenast/voila-invert/HEAD?urlpath=voila%2Frender%2Findex.py)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thomasgilgenast/invert-voila/HEAD?urlpath=voila%2Frender%2Findex.py)
